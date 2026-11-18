@@ -83,7 +83,6 @@ public final class Main {
             System.out.println("It should not be used for any account.");
         } else {
             System.out.println("This password was not found in any known data breach.");
-            System.out.println("That does not by itself make it strong.");
         }
     }
 }
